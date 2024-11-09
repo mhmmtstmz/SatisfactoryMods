@@ -30,6 +30,6 @@
 			"LoadingPhase": "Default"
 		}
 	],
-	"GameVersion": ">=365306",
+	"GameVersion": ">=377620",
 	"RequiredOnRemote": false
 }
